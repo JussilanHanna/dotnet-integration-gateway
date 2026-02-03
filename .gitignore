@@ -1,0 +1,69 @@
+# =========================
+# .NET build outputs
+# =========================
+bin/
+obj/
+
+# =========================
+# User-specific files
+# =========================
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# =========================
+# Visual Studio / Rider / VS Code
+# =========================
+.vs/
+.idea/
+.vscode/
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Environment / secrets
+# =========================
+.env
+.env.*
+secrets.json
+appsettings.Development.json
+
+# =========================
+# SQLite / local databases
+# =========================
+*.db
+*.db-shm
+*.db-wal
+
+# =========================
+# Test results
+# =========================
+TestResults/
+
+# =========================
+# Coverage reports
+# =========================
+coverage/
+coverage.xml
+
+# =========================
+# Packages
+# =========================
+packages/
+
+# =========================
+# Azure / deployment artifacts
+# =========================
+*.publishsettings
+publish/
